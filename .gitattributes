@@ -1,0 +1,3 @@
+telegram.cnf export-ignore
+backup-exclude.cnf export-ignore
+log/ export-ignore

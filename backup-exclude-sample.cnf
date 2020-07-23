@@ -1,0 +1,10 @@
+/proc/**
+/sys/**
+/dev/**
+/boot/**
+/tmp/**
+/run/**
+/mnt/**
+/media/**
+/home/pi/.cache/**
+/var/swap/**

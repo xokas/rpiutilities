@@ -9,5 +9,11 @@ Tutorials followed:
 * https://www.flopy.es/crea-un-bot-de-telegram-para-tu-raspberry-ordenale-cosas-y-habla-con-ella-a-distancia/
 * https://raspberrytips.com/backup-raspberry-pi/
 
+Backup of SD Card:
+* To know wich drive is: sudo fdisk -l
+* Make a image (if the unit is sdb): sudo dd if=/dev/sdb of=~/pi_backup.img
+* Recover: sudo dd if=~/pi_backup.img of=/dev/sdb
+https://es.gadget-info.com/19657-how-to-clone-raspberry-pi-sd-card-on-windows-linux-and-macos
+* Expand the space if the sd card is bigger: http://cagewebdev.com/raspberry-pi-expanding-the-root-partition-of-the-sd-card/
 
 

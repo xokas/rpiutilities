@@ -1,0 +1,1 @@
+/home/pi/exitdns/dnsexit/ipUpdate.pl: 8: /home/pi/exitdns/dnsexit/ipUpdate.pl: Syntax error: "}" unexpected

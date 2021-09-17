@@ -1,5 +1,5 @@
 #!/bin/bash
-bash /home/pi/scripts/telegram.sh "empezando backup"
+#bash /home/pi/scripts/telegram.sh "empezando backup"
 dt=$(date +'%Y%m%d %H:%M')
 echo "$dt"
 mount /dev/sdc1 /media/pi/usb/ && \
